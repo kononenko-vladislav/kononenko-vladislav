@@ -13,6 +13,7 @@
 - :telescope: Участвовал в интресных проэктах, и  МАН , в коледже.
 
 - :seedling: Занимаюсь спортом , узнаю больше про крипто-мир !
+
 :mailbox: Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-Murchalos-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Murchalos) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](bkononenko12@gmail.com)
